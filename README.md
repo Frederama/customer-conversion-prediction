@@ -1,5 +1,12 @@
 # Customer Conversion Prediction
 
+## Power BI Dashboard
+
+A companion dashboard analysing campaign effort allocation across the same
+41K records. See [dashboard/](dashboard/) for the full write-up.
+
+![Campaign Performance Dashboard](dashboard/dashboard_overview.jpg)
+
 A machine learning system that predicts the likelihood of a bank customer subscribing to a term deposit - helping marketing teams prioritize outreach, reduce campaign costs, and improve conversion rates.
 
 **[Live Demo ->](https://customer-conversion-prediction-eyqqkcet3eqycapj5qvswn.streamlit.app/)**
